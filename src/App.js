@@ -6,6 +6,7 @@ import Token from "./components/Demo3/Token"
 import TodoList from "./components/Demo4/TodoList"
 import Demo5 from "./components/Demo5"
 import Demo6 from "./components/Demo6"
+import Demo8 from "./components/Demo8"
 
 function App() {
 
@@ -17,7 +18,8 @@ function App() {
       <Token /> */}
       {/* <TodoList /> */}
       {/* <Demo5 /> */}
-      <Demo6 />
+      {/* <Demo6 /> */}
+      <Demo8 />
     </div>
   );
 }
