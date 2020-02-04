@@ -8,6 +8,7 @@ import Demo5 from "./components/Demo5"
 import Demo6 from "./components/Demo6"
 import Demo8 from "./components/Demo8"
 import Demo9 from "./components/Demo9"
+import Demo10 from "./components/Demo10/MemoDemo"
 
 function App() {
 
@@ -21,7 +22,8 @@ function App() {
       {/* <Demo5 /> */}
       {/* <Demo6 /> */}
       {/* <Demo8 /> */}
-      <Demo9 />
+      {/* <Demo9 /> */}
+      <Demo10 />
     </div>
   );
 }
