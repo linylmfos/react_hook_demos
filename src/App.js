@@ -9,6 +9,7 @@ import Demo6 from "./components/Demo6"
 import Demo8 from "./components/Demo8"
 import Demo9 from "./components/Demo9"
 import Demo10 from "./components/Demo10/MemoDemo"
+import Demo11 from "./components/Demo11"
 
 function App() {
 
@@ -23,7 +24,8 @@ function App() {
       {/* <Demo6 /> */}
       {/* <Demo8 /> */}
       {/* <Demo9 /> */}
-      <Demo10 />
+      {/* <Demo10 /> */}
+      <Demo11 />
     </div>
   );
 }
