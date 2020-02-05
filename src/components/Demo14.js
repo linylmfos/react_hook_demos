@@ -49,7 +49,7 @@ class Bottom extends React.Component {
         const theme = this.context;
         return (
             <div>
-    <h1>{ theme }!!</h1>
+                <h1>{ theme }!!</h1>
             </div>
         )
     }

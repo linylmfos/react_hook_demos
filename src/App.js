@@ -12,7 +12,8 @@ import Demo10 from "./components/Demo10/MemoDemo"
 import Demo11 from "./components/Demo11"
 import Demo13 from "./components/Demo13/MainPage"
 import Demo14 from "./components/Demo14"
-
+import Demo15 from "./components/Demo15"
+import DemoUse from "./components/useRef/useRef"
 
 function App() {
 
@@ -31,6 +32,10 @@ function App() {
       {/* <Demo11 /> */}
       {/* <Demo13 /> */}
       <Demo14 />
+      <Demo15 />
+      <hr />
+      <DemoUse />
+
     </div>
   );
 }
